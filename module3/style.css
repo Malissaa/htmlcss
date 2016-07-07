@@ -1,0 +1,51 @@
+#header-nav{
+	background-color: grey;
+	border-radius: 0;
+	border: 1px solid black;
+}
+.navbar-header h1{
+	margin-top:-10px;
+	color:black;
+
+
+}
+.navbar-header button.navbar-toggle, .navbar-header .icon-bar{
+	border: 1px solid black;
+}
+
+.collapse-style{
+	padding: 0px;
+	text-align: center;
+	background-color: #5F9EA0;
+    height: 50px;
+	margin-top: -7px;
+	margin-bottom: -8px;
+	margin-right: 0px;
+	border:1px solid black;
+		}
+
+#collapsable-nav #nav-list li:hover{
+background: #CD853F;
+
+}
+
+
+#collapsable-nav{
+
+overflow-y:hidden;	
+ }
+
+ h1{
+	margin-top: 0px;
+	text-align: center;
+	font-weight: bold;
+	color: black;
+}
+
+h2{
+	text-align: center;
+	color: black;
+}
+.bodyh2{
+	background: grey;
+}
